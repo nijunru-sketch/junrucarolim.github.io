@@ -1,0 +1,15 @@
+.DS_Store
+.playwright-cli/
+.superpowers/
+.tmp-zuijiao-figma/
+backups/
+mockups/
+career-moody-static-proposal.html
+career-zuijiao-figma-test.html
+career-zuijiao-layout-test.html
+career-zuijiao-figma-test.html.png
+career-zuijiao-layout-test.html.png
+index.html.png
+assets/zuijiao-chefs-original/
+assets/zuijiao-diners-original/
+assets/career-moody/hemu/
